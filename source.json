@@ -1,0 +1,13 @@
+{
+  "name": "Pocket'Park",
+  "subtitle": "Les apps de Pocket'Park dispo sur Alt Store !",
+  "description": "Bienvenue ! ",
+  "iconURL": "https://alt.pocketpark.fr/source_icon.png",
+  "headerURL": "https://alt.pocketpark.fr/source_header.png",
+  "website": "https://pocketpark.fr",
+  "tintColor": "#F54F32",
+  "featuredApps": [
+  ],
+  "apps": [],
+  "news": [],
+}
