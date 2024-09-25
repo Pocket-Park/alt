@@ -15,20 +15,39 @@
       "bundleIdentifier": "fr.pocketpark.PocketPark",
       "marketplaceID": "6504281832",
       "developerName": "Pocket'Park",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "subtitle": "+80 parcs d'attractions dans ta poche",
+      "localizedDescription": "Maintenant disponible sur AltStore !",
       "iconURL": "https://alt.pocketpark.fr/source_icon.png",
       "tintColor": "#F54F32",
-      "category": "utilities",
+      "category": "travel",
       "screenshots": [
           "https://example.com/myapp_screenshot1.png",
           "https://example.com/myapp_screenshot2.png",
           "https://example.com/myapp_screenshot3.png"
       ],
-      "versions": [],
-      "appPermissions": {},
-      "patreon": {},
-  },
+      "versions": [{
+          "version": "1.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "First AltStore release!",
+          "downloadURL": "https://myapp.com/myapp-1.0.ipa",
+          "size": 79821,
+          "minOSVersion": "12.0",
+          "maxOSVersion": "16.3"
+        }
+      ],
+      "appPermissions": {}
+    }
   ],
-  "news": [],
+  "news": [{
+    "title": "New Feature Announcement",
+    "identifier": "new_feature",
+    "caption": "Introducing a new feature in AltStore!",
+    "date": "2023-03-15",
+    "tintColor": "#F54F32",
+    "imageURL": "https://example.com/new_feature_image.png",
+    "notify": true,
+    "url": "https://example.com/new_feature_details",
+    "appID": "com.example.myapp"
+  },]
 }
