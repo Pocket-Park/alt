@@ -7,7 +7,28 @@
   "website": "https://pocketpark.fr",
   "tintColor": "#F54F32",
   "featuredApps": [
+    "fr.pocketpark.PocketPark"
   ],
-  "apps": [],
+  "apps": [
+    {
+      "name": "Pocket'Park",
+      "bundleIdentifier": "fr.pocketpark.PocketPark",
+      "marketplaceID": "6504281832",
+      "developerName": "Pocket'Park",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://alt.pocketpark.fr/source_icon.png",
+      "tintColor": "#F54F32",
+      "category": "utilities",
+      "screenshots": [
+          "https://example.com/myapp_screenshot1.png",
+          "https://example.com/myapp_screenshot2.png",
+          "https://example.com/myapp_screenshot3.png"
+      ],
+      "versions": [],
+      "appPermissions": {},
+      "patreon": {},
+  },
+  ],
   "news": [],
 }
